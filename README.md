@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verzauberte-nachte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Verzauberte Nächte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzauberte-nachte/) |
+| **Get License** | [Music Rights & Licensing for Verzauberte Nächte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzauberte-nachte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b879689bae44884a5575552c67486708eb3f909796297a6caea7262152b0c7d7` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
