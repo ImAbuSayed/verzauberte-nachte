@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verzauberte-nachte/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Verzauberte Nächte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzauberte-nachte/) |
+| **Get License** | [Secure Licensing Rights for Verzauberte Nächte](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verzauberte-nachte/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Verzauberte Nächte, die Skyline leuchtet lila
+> Dein Blick ist wie Gift, doch ich brauch' immer wieder
+> Wir fliegen durch den Nebel, der Bass drückt auf die Brust
+> Baby, du bist meine Sünde, meine reinste Lust
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
